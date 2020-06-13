@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Experimenting with GitHub pages
 
-* [About](/about)
+* [About](/Projet Bigdata GDELT)
