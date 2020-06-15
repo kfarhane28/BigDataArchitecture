@@ -1,5 +1,6 @@
 ## Extra Ressources
 
+* [File formats benchmarh] (/april51700hortonworksomalley-170410130029.pdf)
 * [Use Case Big Data](/Projet Bigdata GDELT.html)
 * [AWS Deep Dive](/AWS.pdf)
 * [TP Spark on AWS](/Spark on AWS EMR.html)
